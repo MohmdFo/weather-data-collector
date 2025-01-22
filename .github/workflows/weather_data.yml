@@ -1,0 +1,44 @@
+name: Daily Weather Data Collection
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Runs every day at 8 AM UTC
+
+jobs:
+  collect_weather_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Set environment variables
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          LOCATION: ${{ secrets.LOCATION }}
+          LAT: ${{ secrets.LAT }}
+          LON: ${{ secrets.LON }}
+        run: |
+          echo "API_KEY=${API_KEY}" >> .env
+          echo "LOCATION=${LOCATION}" >> .env
+          echo "LAT=${LAT}" >> .env
+          echo "LON=${LON}" >> .env
+
+      - name: Run weather script
+        run: python weather_collector.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "your-email@example.com"
+          git config --local user.name "GitHub Action Bot"
+          git add .
+          git commit -m "Daily weather update: $(date)"
+          git push
