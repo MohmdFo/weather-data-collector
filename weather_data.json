@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2025-01-22 17:28:29.186440",
+        "location": "Tehran",
+        "temperature": 3.08,
+        "humidity": 98,
+        "description": "overcast clouds"
+    },
+    {
+        "date": "2025-01-22 17:28:33.370287",
+        "location": "Tehran",
+        "temperature": 3.08,
+        "humidity": 98,
+        "description": "overcast clouds"
+    },
+    {
+        "date": "2025-01-22 17:30:34.089676",
+        "location": "Tehran",
+        "temperature": 3.08,
+        "humidity": 98,
+        "description": "overcast clouds"
+    }
+]
