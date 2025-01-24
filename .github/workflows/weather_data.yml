@@ -35,7 +35,7 @@ jobs:
       - name: Run weather script
         run: python weather_collector.py
 
-        - name: Commit changes
+      - name: Commit changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
