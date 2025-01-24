@@ -33,5 +33,12 @@
         "temperature": 6.92,
         "humidity": 96,
         "description": "broken clouds"
+    },
+    {
+        "date": "2025-01-24 12:40:27.087726",
+        "location": "Tehran",
+        "temperature": 8.61,
+        "humidity": 91,
+        "description": "overcast clouds"
     }
 ]
