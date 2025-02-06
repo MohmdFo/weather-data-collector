@@ -1083,5 +1083,12 @@
         "temperature": 1.47,
         "humidity": 70,
         "description": "scattered clouds"
+    },
+    {
+        "date": "2025-02-06 01:42:16.988631",
+        "location": "Tehran",
+        "temperature": 3.65,
+        "humidity": 46,
+        "description": "broken clouds"
     }
 ]
