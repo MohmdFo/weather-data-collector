@@ -1321,5 +1321,12 @@
         "temperature": 1.5,
         "humidity": 94,
         "description": "snow"
+    },
+    {
+        "date": "2025-02-08 20:20:12.663419",
+        "location": "Tehran",
+        "temperature": 1.01,
+        "humidity": 94,
+        "description": "heavy snow"
     }
 ]
