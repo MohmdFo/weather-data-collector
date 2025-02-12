@@ -1587,5 +1587,12 @@
         "temperature": 6.17,
         "humidity": 94,
         "description": "light rain"
+    },
+    {
+        "date": "2025-02-12 01:42:09.263274",
+        "location": "Tehran",
+        "temperature": 6.0,
+        "humidity": 88,
+        "description": "moderate rain"
     }
 ]
