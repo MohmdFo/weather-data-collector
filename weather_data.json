@@ -2343,5 +2343,12 @@
         "temperature": 2.27,
         "humidity": 24,
         "description": "clear sky"
+    },
+    {
+        "date": "2025-02-21 02:52:18.754809",
+        "location": "Tehran",
+        "temperature": 2.82,
+        "humidity": 54,
+        "description": "clear sky"
     }
 ]
