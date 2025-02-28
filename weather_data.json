@@ -2973,5 +2973,12 @@
         "temperature": 7.12,
         "humidity": 87,
         "description": "heavy intensity rain"
+    },
+    {
+        "date": "2025-02-28 14:20:43.030065",
+        "location": "Tehran",
+        "temperature": 7.07,
+        "humidity": 88,
+        "description": "light rain"
     }
 ]
