@@ -3792,5 +3792,12 @@
         "temperature": 5.89,
         "humidity": 96,
         "description": "overcast clouds"
+    },
+    {
+        "date": "2025-03-10 08:24:36.690603",
+        "location": "Tehran",
+        "temperature": 8.45,
+        "humidity": 85,
+        "description": "broken clouds"
     }
 ]
