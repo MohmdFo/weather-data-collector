@@ -173,5 +173,12 @@
         "temperature": 7.54,
         "humidity": 96,
         "description": "heavy intensity rain"
+    },
+    {
+        "date": "2025-03-23 01:55:34.672485",
+        "location": "Tehran",
+        "temperature": 7.0,
+        "humidity": 94,
+        "description": "few clouds"
     }
 ]
