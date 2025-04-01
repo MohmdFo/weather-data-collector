@@ -978,5 +978,12 @@
         "temperature": 8.16,
         "humidity": 70,
         "description": "light rain"
+    },
+    {
+        "date": "2025-04-01 16:28:29.832439",
+        "location": "Tehran",
+        "temperature": 8.37,
+        "humidity": 72,
+        "description": "overcast clouds"
     }
 ]
