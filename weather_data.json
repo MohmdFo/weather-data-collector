@@ -1454,5 +1454,12 @@
         "temperature": 5.88,
         "humidity": 55,
         "description": "few clouds"
+    },
+    {
+        "date": "2025-04-07 08:31:33.047198",
+        "location": "Tehran",
+        "temperature": 6.81,
+        "humidity": 52,
+        "description": "scattered clouds"
     }
 ]
