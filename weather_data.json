@@ -1685,5 +1685,12 @@
         "temperature": 8.13,
         "humidity": 74,
         "description": "broken clouds"
+    },
+    {
+        "date": "2025-04-10 03:03:32.365813",
+        "location": "Tehran",
+        "temperature": 3.48,
+        "humidity": 85,
+        "description": "broken clouds"
     }
 ]
