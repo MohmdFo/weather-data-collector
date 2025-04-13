@@ -1993,5 +1993,12 @@
         "temperature": 9.31,
         "humidity": 93,
         "description": "heavy intensity rain"
+    },
+    {
+        "date": "2025-04-13 20:23:21.263658",
+        "location": "Tehran",
+        "temperature": 8.95,
+        "humidity": 94,
+        "description": "moderate rain"
     }
 ]
