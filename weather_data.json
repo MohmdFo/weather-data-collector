@@ -2532,5 +2532,12 @@
         "temperature": 5.7,
         "humidity": 80,
         "description": "clear sky"
+    },
+    {
+        "date": "2025-04-20 06:31:16.912563",
+        "location": "Tehran",
+        "temperature": 11.65,
+        "humidity": 76,
+        "description": "overcast clouds"
     }
 ]
