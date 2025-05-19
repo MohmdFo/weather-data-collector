@@ -4968,5 +4968,12 @@
         "temperature": 17.05,
         "humidity": 71,
         "description": "broken clouds"
+    },
+    {
+        "date": "2025-05-19 20:26:26.003598",
+        "location": "Tehran",
+        "temperature": 14.25,
+        "humidity": 79,
+        "description": "overcast clouds"
     }
 ]
