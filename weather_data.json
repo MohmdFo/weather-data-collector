@@ -7187,5 +7187,12 @@
         "temperature": 24.25,
         "humidity": 82,
         "description": "heavy intensity rain"
+    },
+    {
+        "date": "2025-06-16 14:25:51.314820",
+        "location": "Tehran",
+        "temperature": 20.65,
+        "humidity": 76,
+        "description": "moderate rain"
     }
 ]
