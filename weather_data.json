@@ -7530,5 +7530,12 @@
         "temperature": 18.48,
         "humidity": 79,
         "description": "few clouds"
+    },
+    {
+        "date": "2025-06-21 01:59:36.697402",
+        "location": "Tehran",
+        "temperature": 16.86,
+        "humidity": 85,
+        "description": "overcast clouds"
     }
 ]
