@@ -8433,5 +8433,12 @@
         "temperature": 29.59,
         "humidity": 58,
         "description": "few clouds"
+    },
+    {
+        "date": "2025-07-02 14:25:18.723948",
+        "location": "Tehran",
+        "temperature": 22.65,
+        "humidity": 61,
+        "description": "broken clouds"
     }
 ]
