@@ -9392,5 +9392,12 @@
         "temperature": 20.97,
         "humidity": 80,
         "description": "scattered clouds"
+    },
+    {
+        "date": "2025-07-14 22:25:11.226633",
+        "location": "Tehran",
+        "temperature": 19.22,
+        "humidity": 86,
+        "description": "scattered clouds"
     }
 ]
