@@ -10883,5 +10883,12 @@
         "temperature": 19.27,
         "humidity": 80,
         "description": "light rain"
+    },
+    {
+        "date": "2025-08-03 12:54:18.562932",
+        "location": "Tehran",
+        "temperature": 20.56,
+        "humidity": 72,
+        "description": "moderate rain"
     }
 ]
