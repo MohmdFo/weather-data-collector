@@ -10862,5 +10862,12 @@
         "temperature": 13.94,
         "humidity": 91,
         "description": "scattered clouds"
+    },
+    {
+        "date": "2025-08-03 06:36:53.416468",
+        "location": "Tehran",
+        "temperature": 15.35,
+        "humidity": 92,
+        "description": "overcast clouds"
     }
 ]
