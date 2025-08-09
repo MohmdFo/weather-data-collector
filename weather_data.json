@@ -11373,5 +11373,12 @@
         "temperature": 25.89,
         "humidity": 70,
         "description": "clear sky"
+    },
+    {
+        "date": "2025-08-09 20:26:48.141976",
+        "location": "Tehran",
+        "temperature": 22.55,
+        "humidity": 78,
+        "description": "clear sky"
     }
 ]
